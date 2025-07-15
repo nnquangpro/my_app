@@ -21,5 +21,5 @@ Bước 3: Mở ứng dụng như tải từ chplay hoặc appstore
 ## Contact
 
 Create by nnquangpro  
-[facebook]([https://github.com/nnquangpro](https://www.facebook.com/NNQUANGPRO.INFO))  
+[facebook](https://www.facebook.com/NNQUANGPRO.INFO)   
 [github](https://github.com/nnquangpro)  
